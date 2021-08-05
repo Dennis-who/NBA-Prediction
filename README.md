@@ -1,5 +1,5 @@
 # NBA-Prediction
-predict the outcome of NBA matchups based on team and player-based stats
+Predict the outcome of NBA matchups based on team and player-based stats
 
 The Golden State Warriors have dominated the past decade of the NBA, mainly by virtue of their innovation combining statistical analysis with basketball operations. This gave birth to a new generation of superstars such as Stephen Curry and Luka Doncic. With more and more teams applying statistical models and Machine Learning algorithms to devising their game strategies, there has been a major shift in the way that the game of basketball is played and perceived. Instead of relying on instincts to make game decisions, it has been proven that utilizing the power of Machine Learning models gives more of a competitive edge to a team over those who do not. Each of the 30 teams in the NBA are now in an arms race to build the best model possible in predicting winning rates in order to help evaluate players and make in-game adjustments. 
 
